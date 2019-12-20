@@ -1,1 +1,2 @@
-print("hello git")
+a = 1
+print("hello git",a)
